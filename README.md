@@ -40,7 +40,7 @@ Analysis of a large car insurance dataset covering customer demographics, vehicl
 
 Cleaned, transformed, and analyzed e-commerce product data to explore product, category, revenue, discount, and customer-review performance.
 
-> Full case study coming soon.
+[View full case study](https://github.com/shawntops/amazon-product-sales-analysis)
 
 ### Global Debt Analysis
 **Power BI | Power Query | DAX**
