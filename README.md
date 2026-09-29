@@ -56,6 +56,7 @@ I'm expanding this portfolio with deeper SQL analysis and additional end-to-end 
 ## 📫 Connect
 
 - GitHub: [@shawntops](https://github.com/shawntops)
+- LinkedIn: [Temitope Shobayo](https://www.linkedin.com/in/shobayo/)
 
 ---
 
