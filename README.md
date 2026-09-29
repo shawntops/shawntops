@@ -47,7 +47,7 @@ Cleaned, transformed, and analyzed e-commerce product data to explore product, c
 
 Transformed and analyzed global debt indicators across countries, years, and debt categories to make complex debt data easier to explore and compare.
 
-> Full case study coming soon.
+[View full case study](https://github.com/shawntops/global-debt-analysis)
 
 ## 🚧 Currently Building
 
