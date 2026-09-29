@@ -33,7 +33,7 @@ Analyzed 308 digital marketing campaign records across multiple channels to eval
 
 Analysis of a large car insurance dataset covering customer demographics, vehicle characteristics, claims, income, and coverage.
 
-> Full case study coming soon.
+[View full case study](https://github.com/shawntops/car-insurance-analysis)
 
 ### Amazon Product & Sales Analysis
 **Power BI | Power Query | DAX**
