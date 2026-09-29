@@ -26,7 +26,7 @@ Analyzed 308 digital marketing campaign records across multiple channels to eval
 - Used PivotTables, formulas, slicers, and dashboard visualizations
 - Identified differences between campaigns that drove engagement and those that delivered stronger commercial returns
 
-> Full case study coming soon.
+[View full case study](https://github.com/shawntops/marketing-campaign-analysis)
 
 ### Car Insurance Analysis
 **Excel | Data Analysis | Dashboarding**
